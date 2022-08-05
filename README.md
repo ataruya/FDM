@@ -5,4 +5,6 @@ This package contains the Jupyter Note Book files with which figures presented i
 
 Requirements: CLASS (CMB Boltzmann code with python wrapper enabled) 
 
+### Core-halo_FDM.ipynb
 ### Eigenfunctions.ipynb
+### impact_self-gravity.ipynb
