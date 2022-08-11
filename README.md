@@ -5,9 +5,10 @@ This package contains the Jupyter Note Book files with which figures presented i
 
 Requirements: CLASS (CMB Boltzmann code with python wrapper enabled) 
 
+
 ### Core-halo_FDM.ipynb (Figs. 4, 6~9)
 
-This notebook file gives analytical predictions of the soliton core-halo mass relation in the fuzzy dark matter model. 
+This notebook file gives analytical predictions of the soliton core-halo mass relation in the fuzzy dark matter model. Note that this file partly uses the simulation data of Chan et al. ('22) in comparison with analytical results, but it is not currently included.  
 
 ### Eigenfunctions.ipynb (Figs. 1~3, 5, 11, 12)
 
