@@ -1,5 +1,5 @@
 # FDM
-## Jupyter Notebook files to reproduce the figures in the paper ###
+## Jupyter Notebook files to reproduce figures 1~12 in the paper ###
 
 This package contains the Jupyter Notebook files with which figures presented in the paper, "An analytical approach to core-halo structure of fuzzy dark matter", can be reproduced. 
 
